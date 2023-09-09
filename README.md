@@ -1,3 +1,3 @@
 # HuntWumpus
 
-My first game created for learning the Unity environment
+My first Unity game created for learning the Unity environment
